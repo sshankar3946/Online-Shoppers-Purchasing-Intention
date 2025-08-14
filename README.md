@@ -53,7 +53,7 @@ Dataset includes:
 
 ## 🧾 File Structure
 
-├── Dashboard.xlsx                # Final Excel dashboard
-├── Raw_Data.csv                 # Original dataset
-├── README.md                    # Project summary
-└── dashboard_screenshot.png     # Dashboard image
+├── Dashboard.xlsx                # Final Excel dashboard  
+├── Raw_Data.csv                 # Original dataset  
+├── README.md                    # Project summary  
+└── dashboard_screenshot.png     # Dashboard image  
